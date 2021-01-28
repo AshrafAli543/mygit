@@ -1,5 +1,6 @@
 this is a sample text document
 this document is used to test git repositry uploads
 this statements are typed into file througe cat command
+This Line IS Edited In Git Platform From Git Server
 
 
